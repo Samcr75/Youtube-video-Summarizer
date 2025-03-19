@@ -29,4 +29,4 @@ pip install -r requirements.txt
 GOOGLE_API_KEY=your_api_key
 4.Run the app:
 bash
-streamlit run app.py
+streamlit run app.py or app2.py
